@@ -28,4 +28,4 @@ const weekDayET = function() {
 }
 
 
-module.exports = {fullDate: dateFormattedET, fullTime: timeFormattedET, fullDay: weekDay}
+module.exports = {fullDate: dateFormattedET, fullTime: timeFormattedET, fullDay: weekDayET}
